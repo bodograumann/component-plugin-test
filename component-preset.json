@@ -1,0 +1,12 @@
+{
+  "plugins": {
+    "vue-cli-plugin-component": {
+      "componentName": "TestComponent",
+      "useComponentFixture": false,
+      "useVueStyleguidist": false,
+      "useVueDoc": false,
+      "addBadges": false,
+      "addLicense": false
+    }
+  }
+}
